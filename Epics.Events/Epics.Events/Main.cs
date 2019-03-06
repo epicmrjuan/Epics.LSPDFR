@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Epics.Events
 {
-    public class Class1
+    public class Main
     {
     }
 }
