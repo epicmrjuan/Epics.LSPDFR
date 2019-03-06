@@ -5,10 +5,6 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epics.Main", "Epics.Main\Epics.Main.csproj", "{0CE2ADB2-1551-4595-85A9-D562DE0078B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epics.Events", "Epics.Events\Epics.Events.csproj", "{3FE1E0D1-D318-4BD8-B391-E26FACDFC773}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epics.Callouts", "Epics.Callouts\Epics.Callouts.csproj", "{E27DF00A-B78A-48F5-BC39-D95226011403}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{0CE2ADB2-1551-4595-85A9-D562DE0078B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE2ADB2-1551-4595-85A9-D562DE0078B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE2ADB2-1551-4595-85A9-D562DE0078B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3FE1E0D1-D318-4BD8-B391-E26FACDFC773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FE1E0D1-D318-4BD8-B391-E26FACDFC773}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FE1E0D1-D318-4BD8-B391-E26FACDFC773}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FE1E0D1-D318-4BD8-B391-E26FACDFC773}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E27DF00A-B78A-48F5-BC39-D95226011403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E27DF00A-B78A-48F5-BC39-D95226011403}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E27DF00A-B78A-48F5-BC39-D95226011403}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E27DF00A-B78A-48F5-BC39-D95226011403}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
