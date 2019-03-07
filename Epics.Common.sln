@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epics.Common", "Epics.Common\Epics.Common.csproj", "{7447B879-2360-4067-ACBF-8F40B7F644BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epics.Events", "Epics.Events\Epics.Events.csproj", "{C45BE2F7-3145-403C-8E5C-DC9A80A75517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7447B879-2360-4067-ACBF-8F40B7F644BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7447B879-2360-4067-ACBF-8F40B7F644BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7447B879-2360-4067-ACBF-8F40B7F644BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7447B879-2360-4067-ACBF-8F40B7F644BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45BE2F7-3145-403C-8E5C-DC9A80A75517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45BE2F7-3145-403C-8E5C-DC9A80A75517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45BE2F7-3145-403C-8E5C-DC9A80A75517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45BE2F7-3145-403C-8E5C-DC9A80A75517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {024BC070-3FE5-48E8-BFD0-F342FFED5C11}
+	EndGlobalSection
+EndGlobal
